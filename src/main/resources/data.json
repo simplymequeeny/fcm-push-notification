@@ -1,0 +1,2912 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2017 The New York Times Company.  All Rights Reserved.",
+  "num_results": 70,
+  "results": {
+    "bestsellers_date": "2017-10-28",
+    "published_date": "2017-11-12",
+    "published_date_description": "latest",
+    "previous_published_date": "2017-11-05",
+    "next_published_date": "",
+    "lists": [
+      {
+        "list_id": 704,
+        "list_name": "Combined Print and E-Book Fiction",
+        "list_name_encoded": "combined-print-and-e-book-fiction",
+        "display_name": "Combined Print & E-Book Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780385541183.jpg",
+        "list_image_width": 326,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Rooster-Bar-John-Grisham-ebook/dp/B01N6YQAPS?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Grisham",
+            "book_image": "https://s1.nyt.com/du/books/images/9780385541183.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Grisham",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "038554118X",
+            "primary_isbn13": "9780385541183",
+            "publisher": "Doubleday",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE ROOSTER BAR",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Rooster-Bar-John-Grisham-ebook/dp/B01N6YQAPS?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385541183?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385541183"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Origin-Novel-Dan-Brown-ebook/dp/B01LY7FD0D?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dan Brown",
+            "book_image": "https://s1.nyt.com/du/books/images/9780385542692.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Dan Brown",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0385514239",
+            "primary_isbn13": "9780385514231",
+            "publisher": "Doubleday",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ORIGIN",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Origin-Novel-Dan-Brown-ebook/dp/B01LY7FD0D?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385514231?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385514231"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Quick-Dirty-Stone-Barrington-Novel-ebook/dp/B06WV7XCR4?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stuart Woods",
+            "book_image": "https://s1.nyt.com/du/books/images/9780735217164.jpg",
+            "book_image_width": 324,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Stuart Woods",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "The New York lawyer Stone Barrington is hired to recover a stolen Van Gogh painting.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735217165",
+            "primary_isbn13": "9780735217164",
+            "publisher": "Putnam",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "QUICK & DIRTY",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Quick-Dirty-Stone-Barrington-Novel-ebook/dp/B06WV7XCR4?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735217164?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735217164"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Deep-Freeze-Virgil-Flowers-Novel-ebook/dp/B01NBU65Z1?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Sandford",
+            "book_image": "https://s1.nyt.com/du/books/images/9780698407114.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Sandford",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "Virgil Flowers is called to investigate in Trippton, Minn., when a local bank's president is found dead in a nearly frozen river.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0698407113",
+            "primary_isbn13": "9780698407114",
+            "publisher": "Putnam",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DEEP FREEZE",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Deep-Freeze-Virgil-Flowers-Novel-ebook/dp/B01NBU65Z1?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780698407114?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780698407114"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Leopards-Blood-Leopard-Christine-Feehan-ebook/dp/B01MTE6KZL?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Christine Feehan",
+            "book_image": "https://s1.nyt.com/du/books/images/9780399583988.jpg",
+            "book_image_width": 307,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Christine Feehan",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "Joshua takes over the crime syndicate back home in Louisiana, but can he resist Sonia?",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "039958398X",
+            "primary_isbn13": "9780399583988",
+            "publisher": "Berkley",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "LEOPARD'S BLOOD",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Leopards-Blood-Leopard-Christine-Feehan-ebook/dp/B01MTE6KZL?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780399583988?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399583988"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 708,
+        "list_name": "Combined Print and E-Book Nonfiction",
+        "list_name_encoded": "combined-print-and-e-book-nonfiction",
+        "display_name": "Combined Print & E-Book Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781538711415.jpg",
+        "list_image_width": 327,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Sisters-First-Stories-Wild-Wonderful/dp/1538711419?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jenna Bush Hager and Barbara Pierce Bush",
+            "book_image": "https://s1.nyt.com/du/books/images/9781538711415.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jenna Bush Hager and Barbara Pierce Bush",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "The twin daughters of former president George W. Bush offer their account of growing up in the public eye.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538711419",
+            "primary_isbn13": "9781538711415",
+            "publisher": "Grand Central",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SISTERS FIRST",
+            "updated_date": "2017-11-08 22:00:07",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Sisters-First-Stories-Wild-Wonderful/dp/1538711419?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538711415?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538711415"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Walter Isaacson",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Walter Isaacson",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501139150",
+            "primary_isbn13": "9781501139154",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "LEONARDO DA VINCI",
+            "updated_date": "2017-11-08 22:00:07",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501139154?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501139154"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Andrew-Jackson-Miracle-New-Orleans/dp/0735213232?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Brian Kilmeade and Don Yaeger",
+            "book_image": "https://s1.nyt.com/du/books/images/9780735213234.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Brian Kilmeade and Don Yaeger",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "Major General Jackson takes on the British in Louisiana.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735213232",
+            "primary_isbn13": "9780735213234",
+            "publisher": "Sentinel",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+            "updated_date": "2017-11-08 22:00:07",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Andrew-Jackson-Miracle-New-Orleans/dp/0735213232?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735213234?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735213234"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Killing-England-Struggle-American-Independence/dp/1627790640?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Bill O'Reilly and Martin Dugard",
+            "book_image": "https://s1.nyt.com/du/books/images/9781627790642.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Bill O'Reilly and Martin Dugard",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1627790640",
+            "primary_isbn13": "9781627790642",
+            "publisher": "Holt",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "KILLING ENGLAND",
+            "updated_date": "2017-11-08 22:00:07",
+            "weeks_on_list": 6,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Killing-England-Struggle-American-Independence/dp/1627790640?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781627790642?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781627790642"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ron Chernow",
+            "book_image": "https://s1.nyt.com/du/books/images/9781594204876.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "https://www.nytimes.com/2017/10/12/books/review/ron-chernow-ulysses-s-grant-biography-bill-clinton.html",
+            "contributor": "by Ron Chernow",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:07",
+            "description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "159420487X",
+            "primary_isbn13": "9781594204876",
+            "publisher": "Penguin Press",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "GRANT",
+            "updated_date": "2017-11-08 22:00:07",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781594204876?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781594204876"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 1,
+        "list_name": "Hardcover Fiction",
+        "list_name_encoded": "hardcover-fiction",
+        "display_name": "Hardcover Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780385541183.jpg",
+        "list_image_width": 326,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Rooster-Bar-John-Grisham-ebook/dp/B01N6YQAPS?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Grisham",
+            "book_image": "https://s1.nyt.com/du/books/images/9780385541183.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Grisham",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:03",
+            "description": "Three students at a sleazy for-profit law school hope to expose the student-loan banker who runs it.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0385541171",
+            "primary_isbn13": "9780385541176",
+            "publisher": "Doubleday",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE ROOSTER BAR",
+            "updated_date": "2017-11-08 22:00:03",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Rooster-Bar-John-Grisham-ebook/dp/B01N6YQAPS?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385541176?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385541176"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Origin-Novel-Dan-Brown-ebook/dp/B01LY7FD0D?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dan Brown",
+            "book_image": "https://s1.nyt.com/du/books/images/9780385542692.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Dan Brown",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:03",
+            "description": "A symbology professor goes on a perilous quest with a beautiful museum director.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0385514239",
+            "primary_isbn13": "9780385514231",
+            "publisher": "Doubleday",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ORIGIN",
+            "updated_date": "2017-11-08 22:00:03",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Origin-Novel-Dan-Brown-ebook/dp/B01LY7FD0D?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385514231?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385514231"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Deep-Freeze-Virgil-Flowers-Novel-ebook/dp/B01NBU65Z1?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Sandford",
+            "book_image": "https://s1.nyt.com/du/books/images/9780698407114.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Sandford",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:03",
+            "description": "Virgil Flowers is called to investigate in Trippton, Minn., when a local bank's president is found dead in a nearly frozen river.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0399176063",
+            "primary_isbn13": "9780399176067",
+            "publisher": "Putnam",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DEEP FREEZE",
+            "updated_date": "2017-11-08 22:00:03",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Deep-Freeze-Virgil-Flowers-Novel-ebook/dp/B01NBU65Z1?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780399176067?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399176067"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Sleeping-Beauties-Novel-Stephen-King/dp/150116340X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen King and Owen King",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501163401.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Stephen King and Owen King",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:03",
+            "description": "Women who fall asleep become shrouded in mysterious cocoons while the men battle one another.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "150116340X",
+            "primary_isbn13": "9781501163401",
+            "publisher": "Scribner",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "SLEEPING BEAUTIES",
+            "updated_date": "2017-11-08 22:00:03",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Sleeping-Beauties-Novel-Stephen-King/dp/150116340X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501163401?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501163401"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Uncommon-Type-Stories-Tom-Hanks/dp/1101946156?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tom Hanks",
+            "book_image": "https://s1.nyt.com/du/books/images/9781101946152.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Tom Hanks",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:03",
+            "description": "Seventeen short stories, each incorporating a typewriter, by the Academy Award-winning actor.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101946156",
+            "primary_isbn13": "9781101946152",
+            "publisher": "Knopf",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "UNCOMMON TYPE",
+            "updated_date": "2017-11-08 22:00:03",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Uncommon-Type-Stories-Tom-Hanks/dp/1101946156?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101946152?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101946152"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 2,
+        "list_name": "Hardcover Nonfiction",
+        "list_name_encoded": "hardcover-nonfiction",
+        "display_name": "Hardcover Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+        "list_image_width": 329,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Walter Isaacson",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Walter Isaacson",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "A biography of the Italian Renaissance polymath which connects his work in various disciplines.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501139150",
+            "primary_isbn13": "9781501139154",
+            "publisher": "Simon & Schuster",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "LEONARDO DA VINCI",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501139154?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501139154"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Sisters-First-Stories-Wild-Wonderful/dp/1538711419?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jenna Bush Hager and Barbara Pierce Bush",
+            "book_image": "https://s1.nyt.com/du/books/images/9781538711415.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jenna Bush Hager and Barbara Pierce Bush",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "The twin daughters of former president George W. Bush offer their account of growing up in the public eye.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1538711419",
+            "primary_isbn13": "9781538711415",
+            "publisher": "Grand Central",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SISTERS FIRST",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Sisters-First-Stories-Wild-Wonderful/dp/1538711419?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781538711415?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781538711415"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Andrew-Jackson-Miracle-New-Orleans/dp/0735213232?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Brian Kilmeade and Don Yaeger",
+            "book_image": "https://s1.nyt.com/du/books/images/9780735213234.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Brian Kilmeade and Don Yaeger",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "Major General Jackson takes on the British in Louisiana.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735213232",
+            "primary_isbn13": "9780735213234",
+            "publisher": "Sentinel",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ANDREW JACKSON AND THE MIRACLE OF NEW ORLEANS",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Andrew-Jackson-Miracle-New-Orleans/dp/0735213232?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735213234?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735213234"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Killing-England-Struggle-American-Independence/dp/1627790640?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Bill O'Reilly and Martin Dugard",
+            "book_image": "https://s1.nyt.com/du/books/images/9781627790642.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Bill O'Reilly and Martin Dugard",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "Major events and battles during the Revolutionary War are told from several perspectives.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1627790640",
+            "primary_isbn13": "9781627790642",
+            "publisher": "Holt",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "KILLING ENGLAND",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 6,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Killing-England-Struggle-American-Independence/dp/1627790640?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781627790642?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781627790642"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ron Chernow",
+            "book_image": "https://s1.nyt.com/du/books/images/9781594204876.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "https://www.nytimes.com/2017/10/12/books/review/ron-chernow-ulysses-s-grant-biography-bill-clinton.html",
+            "contributor": "by Ron Chernow",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "A biography of the Union general of the Civil War and two-term president of the United States.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "159420487X",
+            "primary_isbn13": "9781594204876",
+            "publisher": "Penguin Press",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "GRANT",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Grant-Ron-Chernow/dp/159420487X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781594204876?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781594204876"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 17,
+        "list_name": "Trade Fiction Paperback",
+        "list_name_encoded": "trade-fiction-paperback",
+        "display_name": "Paperback Trade Fiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781449486792.jpg",
+        "list_image_width": 319,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Sun-Her-Flowers-Rupi-Kaur/dp/1449486797?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rupi Kaur",
+            "book_image": "https://s1.nyt.com/du/books/images/9781449486792.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Rupi Kaur",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1449486797",
+            "primary_isbn13": "9781449486792",
+            "publisher": "Andrews McMeel",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THE SUN AND HER FLOWERS",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Sun-Her-Flowers-Rupi-Kaur/dp/1449486797?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781449486792?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781449486792"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Milk-Honey-Rupi-Kaur/dp/144947425X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rupi Kaur",
+            "book_image": "https://s1.nyt.com/du/books/images/9781449474256.jpg",
+            "book_image_width": 319,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Rupi Kaur",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "144947425X",
+            "primary_isbn13": "9781449474256",
+            "publisher": "Andrews McMeel",
+            "rank": 2,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "MILK AND HONEY",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 81,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Milk-Honey-Rupi-Kaur/dp/144947425X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781449474256?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781449474256"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Stephen-King-ebook/dp/B018ER7K5I?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Stephen King",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501141232.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Stephen King",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501175467",
+            "primary_isbn13": "9781501175466",
+            "publisher": "Scribner",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "IT",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 11,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Stephen-King-ebook/dp/B018ER7K5I?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501175466?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501175466"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Black-Book-James-Patterson-ebook/dp/B01HZFB38U?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "James Patterson and David Ellis",
+            "book_image": "https://s1.nyt.com/du/books/images/9780316464147.jpg",
+            "book_image_width": 321,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by James Patterson and David Ellis",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1455542679",
+            "primary_isbn13": "9781455542673",
+            "publisher": "Grand Central",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE BLACK BOOK",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Black-Book-James-Patterson-ebook/dp/B01HZFB38U?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781455542673?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781455542673"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Margaret Atwood",
+            "book_image": "https://s1.nyt.com/du/books/images/9780547345666.jpg",
+            "book_image_width": 330,
+            "book_image_height": 485,
+            "book_review_link": "",
+            "contributor": "by Margaret Atwood",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "038549081X",
+            "primary_isbn13": "9780385490818",
+            "publisher": "Anchor",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "https://www.nytimes.com/1986/02/09/books/no-headline-423986.html",
+            "title": "THE HANDMAID'S TALE",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 38,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Handmaids-Tale-Margaret-Atwood-ebook/dp/B003JFJHTS?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385490818?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385490818"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 4,
+        "list_name": "Paperback Nonfiction",
+        "list_name_encoded": "paperback-nonfiction",
+        "display_name": "Paperback Nonfiction",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780849919107.jpg",
+        "list_image_width": 330,
+        "list_image_height": 481,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Same-Kind-Different-Modern-Day-International-ebook/dp/B007FZXJGA?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ron Hall and Denver Moore with Lynn Vincent",
+            "book_image": "https://s1.nyt.com/du/books/images/9780849919107.jpg",
+            "book_image_width": 330,
+            "book_image_height": 481,
+            "book_review_link": "",
+            "contributor": "by Ron Hall and Denver Moore with Lynn Vincent",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0718077296",
+            "primary_isbn13": "9780718077297",
+            "publisher": "Thomas Nelson",
+            "rank": 1,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "SAME KIND OF DIFFERENT AS ME",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 109,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Same-Kind-Different-Modern-Day-International-ebook/dp/B007FZXJGA?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780718077297?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780718077297"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeannette Walls",
+            "book_image": "https://s1.nyt.com/du/books/images/9780743247542.jpg",
+            "book_image_width": 313,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jeannette Walls",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "https://www.nytimes.com/2005/03/13/books/chapters/0313-1st-walls.html",
+            "price": 0,
+            "primary_isbn10": "074324754X",
+            "primary_isbn13": "9780743247542",
+            "publisher": "Scribner",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "https://www.nytimes.com/2005/03/13/books/review/013COVERPROSE.html",
+            "title": "THE GLASS CASTLE",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 397,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Glass-Castle-A-Memoir/dp/074324754X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780743247542?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780743247542"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Richard H Thaler and Cass R Sunstein",
+            "book_image": "https://s1.nyt.com/du/books/images/9780143115267.jpg",
+            "book_image_width": 325,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Richard H. Thaler and Cass R. Sunstein",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "014311526X",
+            "primary_isbn13": "9780143115267",
+            "publisher": "Penguin",
+            "rank": 3,
+            "rank_last_week": 4,
+            "sunday_review_link": "https://www.nytimes.com/2008/08/24/books/review/Friedman-t.html",
+            "title": "NUDGE",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Nudge-Improving-Decisions-Health-Happiness/dp/014311526X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780143115267?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143115267"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Thank-You-Being-Late-Accelerations-ebook/dp/B01F1Z0QHA?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Thomas L Friedman",
+            "book_image": "https://s1.nyt.com/du/books/images/9780374715144.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "https://www.nytimes.com/2016/11/22/books/review/thomas-friedman-thank-you-for-being-late.html",
+            "contributor": "by Thomas L. Friedman",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250141222",
+            "primary_isbn13": "9781250141224",
+            "publisher": "Picador",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THANK YOU FOR BEING LATE",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Thank-You-Being-Late-Accelerations-ebook/dp/B01F1Z0QHA?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250141224?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250141224"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Atul Gawande",
+            "book_image": "https://s1.nyt.com/du/books/images/9780805095159.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "https://www.nytimes.com/2014/10/17/arts/being-mortal-by-atul-gawande.html",
+            "contributor": "by Atul Gawande",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250076226",
+            "primary_isbn13": "9781250076229",
+            "publisher": "Picador",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "https://www.nytimes.com/2014/11/09/books/review/atul-gawande-being-mortal-review.html",
+            "title": "BEING MORTAL",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 8,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Being-Mortal-Medicine-What-Matters/dp/0805095152?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250076229?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250076229"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 24,
+        "list_name": "Advice How-To and Miscellaneous",
+        "list_name_encoded": "advice-how-to-and-miscellaneous",
+        "display_name": "Advice, How-To & Miscellaneous",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780062225269.jpg",
+        "list_image_width": 330,
+        "list_image_height": 417,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Pioneer-Woman-Cooks-Scrumptious-Recipes/dp/006222526X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ree Drummond",
+            "book_image": "https://s1.nyt.com/du/books/images/9780062225269.jpg",
+            "book_image_width": 330,
+            "book_image_height": 417,
+            "book_review_link": "",
+            "contributor": "by Ree Drummond",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "006222526X",
+            "primary_isbn13": "9780062225269",
+            "publisher": "Morrow",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE PIONEER WOMAN COOKS: COME AND GET IT!",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Pioneer-Woman-Cooks-Scrumptious-Recipes/dp/006222526X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062225269?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062225269"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Smitten-Kitchen-Every-Day-Triumphant/dp/1101874813?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Deb Perelman",
+            "book_image": "https://s1.nyt.com/du/books/images/9781101874813.jpg",
+            "book_image_width": 330,
+            "book_image_height": 377,
+            "book_review_link": "",
+            "contributor": "by Deb Perelman",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101874813",
+            "primary_isbn13": "9781101874813",
+            "publisher": "Knopf",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "SMITTEN KITCHEN EVERY DAY",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Smitten-Kitchen-Every-Day-Triumphant/dp/1101874813?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101874813?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101874813"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Capital-Gaines-Things-Learned-Stupid/dp/0785216308?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Chip Gaines",
+            "book_image": "https://s1.nyt.com/du/books/images/9780785216308.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Chip Gaines",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0785216308",
+            "primary_isbn13": "9780785216308",
+            "publisher": "Thomas Nelson",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "CAPITAL GAINES",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Capital-Gaines-Things-Learned-Stupid/dp/0785216308?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780785216308?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780785216308"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Mark Manson",
+            "book_image": "https://s1.nyt.com/du/books/images/9780062457714.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Mark Manson",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062457713",
+            "primary_isbn13": "9780062457714",
+            "publisher": "HarperOne/HarperCollins",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "THE SUBTLE ART OF NOT GIVING A ----------",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 46,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Subtle-Art-Not-Giving-Counterintuitive/dp/0062457713?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062457714?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062457714"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Blessed-Darkness-Things-Working-Your/dp/1455534323?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Joel Osteen",
+            "book_image": "https://s1.nyt.com/du/books/images/9781455534326.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Joel Osteen",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1455534323",
+            "primary_isbn13": "9781455534326",
+            "publisher": "FaithWords",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BLESSED IN THE DARKNESS",
+            "updated_date": "2017-11-08 22:00:05",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Blessed-Darkness-Things-Working-Your/dp/1455534323?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781455534326?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781455534326"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 13,
+        "list_name": "Childrens Middle Grade Hardcover",
+        "list_name_encoded": "childrens-middle-grade-hardcover",
+        "display_name": "Children’s Middle Grade Hardcover",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780375899881.jpg",
+        "list_image_width": 329,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "R J Palacio",
+            "book_image": "https://s1.nyt.com/du/books/images/9780375899881.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by R. J. Palacio",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "A boy with a facial deformity starts school.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0375869026",
+            "primary_isbn13": "9780375869020",
+            "publisher": "Knopf",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "https://www.nytimes.com/2012/04/08/books/review/wonder-by-r-j-palacio.html",
+            "title": "WONDER",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 116,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Wonder-R-J-Palacio-ebook/dp/B0051ANPZQ?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780375869020?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375869020"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Good-Night-Stories-Rebel-Girls/dp/014198600X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Elena Favilli and Francesca Cavallo",
+            "book_image": "https://s1.nyt.com/du/books/images/9780997895810.jpg",
+            "book_image_width": 330,
+            "book_image_height": 456,
+            "book_review_link": "",
+            "contributor": "by Elena Favilli and Francesca Cavallo",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "Fairy tale versions of the lives of 100 influential women.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0997895810",
+            "primary_isbn13": "9780997895810",
+            "publisher": "Timbuktu Labs",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "GOOD NIGHT STORIES FOR REBEL GIRLS",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 18,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Good-Night-Stories-Rebel-Girls/dp/014198600X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780997895810?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780997895810"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Wishtree-Katherine-Applegate/dp/1250043220?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Katherine Applegate",
+            "book_image": "https://s1.nyt.com/du/books/images/9781250043221.jpg",
+            "book_image_width": 330,
+            "book_image_height": 450,
+            "book_review_link": "https://www.nytimes.com/2017/09/05/books/review/katherine-applegate-wishtree.html",
+            "contributor": "by Katherine Applegate. Illustrated by Charles Santoso",
+            "contributor_note": "Illustrated by Charles Santoso",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "Red, an oak tree on which people leave their wishes is threatened to be cut down after more than 200 years.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250043220",
+            "primary_isbn13": "9781250043221",
+            "publisher": "Feiwel & Friends",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "WISHTREE",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 5,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Wishtree-Katherine-Applegate/dp/1250043220?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250043221?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250043221"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934867?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "R J Palacio",
+            "book_image": "https://s1.nyt.com/du/books/images/9781101934852.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by R. J. Palacio",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "A collection of three stories from the “Wonder” series.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1101934859",
+            "primary_isbn13": "9781101934852",
+            "publisher": "Knopf",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "AUGGIE & ME",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 48,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Auggie-Me-Three-Wonder-Stories/dp/1101934867?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781101934852?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781101934852"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rachel Ignotofsky",
+            "book_image": "https://s1.nyt.com/du/books/images/9781607749769.jpg",
+            "book_image_width": 330,
+            "book_image_height": 394,
+            "book_review_link": "",
+            "contributor": "by Rachel Ignotofsky",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "Fifty women who have transformed science and technology.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1607749769",
+            "primary_isbn13": "9781607749769",
+            "publisher": "Ten Speed",
+            "rank": 5,
+            "rank_last_week": 10,
+            "sunday_review_link": "",
+            "title": "WOMEN IN SCIENCE",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 42,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Women-Science-Fearless-Pioneers-Changed/dp/1607749769?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781607749769?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781607749769"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 7,
+        "list_name": "Picture Books",
+        "list_name_encoded": "picture-books",
+        "display_name": "Children’s Picture Books",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781534409590.jpg",
+        "list_image_width": 330,
+        "list_image_height": 401,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Through-Your-Eyes-Childs-Gift/dp/1534409599?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ainsley Earhardt",
+            "book_image": "https://s1.nyt.com/du/books/images/9781534409590.jpg",
+            "book_image_width": 330,
+            "book_image_height": 401,
+            "book_review_link": "",
+            "contributor": "by Ainsley Earhardt. Illustrated by Ji-Hyuk Kim",
+            "contributor_note": "Illustrated by Ji-Hyuk Kim",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "A mother learns life lessons from her daughter.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1534409599",
+            "primary_isbn13": "9781534409590",
+            "publisher": "Aladdin",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "THROUGH YOUR EYES",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Through-Your-Eyes-Childs-Gift/dp/1534409599?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781534409590?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781534409590"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Creepy-Pair-Underwear-Aaron-Reynolds/dp/1442402989?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Aaron Reynolds",
+            "book_image": "https://s1.nyt.com/du/books/images/9781442402980.jpg",
+            "book_image_width": 330,
+            "book_image_height": 446,
+            "book_review_link": "",
+            "contributor": "by Aaron Reynolds. Illustrated by Peter Brown",
+            "contributor_note": "Illustrated by Peter Brown",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "Jasper Rabbit deals with a pair of glowing underwear that won't go away.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1442402989",
+            "primary_isbn13": "9781442402980",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "A CREEPY PAIR OF UNDERWEAR",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 8,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Creepy-Pair-Underwear-Aaron-Reynolds/dp/1442402989?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781442402980?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781442402980"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Princesses-Pants-Princess-Penelope-Pineapple/dp/141972603X?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Savannah Guthrie and Allison Oppenheim",
+            "book_image": "https://s1.nyt.com/du/books/images/9781419726033.jpg",
+            "book_image_width": 330,
+            "book_image_height": 405,
+            "book_review_link": "",
+            "contributor": "by Savannah Guthrie and Allison Oppenheim. Illustrated by Eva Byrne",
+            "contributor_note": "Illustrated by Eva Byrne",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "Princess Penelope Pineapple prefers pants over dresses.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "141972603X",
+            "primary_isbn13": "9781419726033",
+            "publisher": "Abrams",
+            "rank": 3,
+            "rank_last_week": 8,
+            "sunday_review_link": "",
+            "title": "PRINCESSES WEAR PANTS",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 7,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Princesses-Pants-Princess-Penelope-Pineapple/dp/141972603X?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781419726033?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419726033"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Everything-Mama-Jimmy-Fallon/dp/1250125847?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jimmy Fallon",
+            "book_image": "https://s1.nyt.com/du/books/images/9781250125842.jpg",
+            "book_image_width": 330,
+            "book_image_height": 330,
+            "book_review_link": "",
+            "contributor": "by Jimmy Fallon. Illustrated by Miguel Ordóñez",
+            "contributor_note": "Illustrated by Miguel Ordóñez",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "To baby animals learning new words, Mama is everything.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250125847",
+            "primary_isbn13": "9781250125842",
+            "publisher": "Feiwel and Friends",
+            "rank": 4,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "EVERYTHING IS MAMA",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Everything-Mama-Jimmy-Fallon/dp/1250125847?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250125842?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250125842"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Pete-Cat-Five-Little-Pumpkins/dp/0062304186?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "James Dean",
+            "book_image": "https://s1.nyt.com/du/books/images/9780062304186.jpg",
+            "book_image_width": 330,
+            "book_image_height": 334,
+            "book_review_link": "",
+            "contributor": "by James Dean",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:06",
+            "description": "Pete takes on a favorite children’s song.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062304186",
+            "primary_isbn13": "9780062304186",
+            "publisher": "HarperCollins",
+            "rank": 5,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "PETE THE CAT: FIVE LITTLE PUMPKINS",
+            "updated_date": "2017-11-08 22:00:06",
+            "weeks_on_list": 21,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Pete-Cat-Five-Little-Pumpkins/dp/0062304186?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062304186?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062304186"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 10,
+        "list_name": "Series Books",
+        "list_name_encoded": "series-books",
+        "display_name": "Children’s Series",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780590353427.jpg",
+        "list_image_width": 328,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "J K Rowling",
+            "book_image": "https://s1.nyt.com/du/books/images/9780590353427.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by J. K. Rowling",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:04",
+            "description": "A wizard hones his conjuring skills in the service of fighting evil.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1338267108",
+            "primary_isbn13": "9781338267105",
+            "publisher": "Scholastic",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "HARRY POTTER",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 449,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Harry-Potter-And-Order-Phoenix/dp/0439358078?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781338267105?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781338267105"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Dork-Diaries-Tales-Not-So-Glam-Star/dp/1442487674?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rachel Renée Russell",
+            "book_image": "https://s1.nyt.com/du/books/images/9781442487673.jpg",
+            "book_image_width": 330,
+            "book_image_height": 480,
+            "book_review_link": "",
+            "contributor": "by Rachel Renée Russell",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:04",
+            "description": "Nikki Maxwell navigates the halls of middle school.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1534405607",
+            "primary_isbn13": "9781534405608",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "DORK DIARIES",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 223,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Dork-Diaries-Tales-Not-So-Glam-Star/dp/1442487674?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781534405608?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781534405608"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Dog-Man-Kitties-Creator-Underpants/dp/0545935210?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dav Pilkey",
+            "book_image": "https://s1.nyt.com/du/books/images/9780545935210.jpg",
+            "book_image_width": 330,
+            "book_image_height": 488,
+            "book_review_link": "",
+            "contributor": "by Dav Pilkey",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:04",
+            "description": "A dog’s head is combined with a policeman’s body to create this hybrid supercop hound.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0545935210",
+            "primary_isbn13": "9780545935210",
+            "publisher": "Scholastic",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "DOG MAN",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 9,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Dog-Man-Kitties-Creator-Underpants/dp/0545935210?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780545935210?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780545935210"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Magnus-Chase-Gods-Asgard-Book/dp/1423160932?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Rick Riordan",
+            "book_image": "https://s1.nyt.com/du/books/images/9781423160939.jpg",
+            "book_image_width": 327,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Rick Riordan",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:04",
+            "description": "Magnus Chase and his crew must overcome mythological challenges.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1423160932",
+            "primary_isbn13": "9781423160939",
+            "publisher": "Disney-Hyperion",
+            "rank": 4,
+            "rank_last_week": 4,
+            "sunday_review_link": "https://www.nytimes.com/2015/11/08/books/review/rick-riordans-magnus-chase-and-the-gods-of-asgard.html",
+            "title": "MAGNUS CHASE AND THE GODS OF ASGARD",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 4,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Magnus-Chase-Gods-Asgard-Book/dp/1423160932?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781423160939?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781423160939"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jeff Kinney",
+            "book_image": "https://s1.nyt.com/du/books/images/9781419711329.jpg",
+            "book_image_width": 330,
+            "book_image_height": 484,
+            "book_review_link": "",
+            "contributor": "written and illustrated by Jeff Kinney",
+            "contributor_note": "written and illustrated by Jeff Kinney",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "The travails and challenges of adolescence.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1419723448",
+            "primary_isbn13": "9781419723445",
+            "publisher": "Amulet",
+            "rank": 5,
+            "rank_last_week": 5,
+            "sunday_review_link": "",
+            "title": "DIARY OF A WIMPY KID",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 450,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Diary-Wimpy-Kid-Hard-Luck/dp/1419711326?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781419723445?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419723445"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 14,
+        "list_name": "Young Adult Hardcover",
+        "list_name_encoded": "young-adult-hardcover",
+        "display_name": "Young Adult Hardcover",
+        "updated": "WEEKLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780525555360.jpg",
+        "list_image_width": 328,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Green",
+            "book_image": "https://s1.nyt.com/du/books/images/9780525555360.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Green",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "Aza and Daisy investigate a mystery with a reward of $100,000.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0525555366",
+            "primary_isbn13": "9780525555360",
+            "publisher": "Dutton",
+            "rank": 1,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "TURTLES ALL THE WAY DOWN",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 3,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Turtles-All-Down-John-Green/dp/0525555366?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780525555360?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780525555360"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Book-Dust-Belle-Sauvage/dp/0375815309?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Philip Pullman",
+            "book_image": "https://s1.nyt.com/du/books/images/9780375815300.jpg",
+            "book_image_width": 330,
+            "book_image_height": 484,
+            "book_review_link": "",
+            "contributor": "by Philip Pullman",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "Malcolm finds a secret message about a substance known as Dust in the first volume of a trilogy that starts before the beginning of \"His Dark Materials.\"",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0375815309",
+            "primary_isbn13": "9780375815300",
+            "publisher": "Knopf",
+            "rank": 2,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "THE BOOK OF DUST: LA BELLE SAUVAGE",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 2,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Book-Dust-Belle-Sauvage/dp/0375815309?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780375815300?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780375815300"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Angie Thomas",
+            "book_image": "https://s1.nyt.com/du/books/images/9780062498533.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Angie Thomas",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "A 16-year-old girl sees a police officer kill her friend.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062498533",
+            "primary_isbn13": "9780062498533",
+            "publisher": "Balzer & Bray",
+            "rank": 3,
+            "rank_last_week": 3,
+            "sunday_review_link": "",
+            "title": "THE HATE U GIVE",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 35,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Hate-U-Give-Angie-Thomas/dp/0062498533?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062498533?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062498533"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jason Reynolds",
+            "book_image": "https://s1.nyt.com/du/books/images/9781481438254.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Jason Reynolds",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "On his way to exact revenge for his brother's death, Will takes a life-changing elevator ride.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1481438255",
+            "primary_isbn13": "9781481438254",
+            "publisher": "Atheneum/Caitlyn Dlouhy",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "LONG WAY DOWN",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 1,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Long-Way-Down-Jason-Reynolds/dp/1481438255?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781481438254?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781481438254"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Warcross-Marie-Lu/dp/0399547967?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Marie Lu",
+            "book_image": "https://s1.nyt.com/du/books/images/9780399547966.jpg",
+            "book_image_width": 330,
+            "book_image_height": 494,
+            "book_review_link": "",
+            "contributor": "by Marie Lu",
+            "contributor_note": "",
+            "created_date": "2017-11-02 16:00:05",
+            "description": "When a New York bounty hunter's identity is exposed in a game's glitch, she's hired to track down a hacker in Tokyo.",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0399547967",
+            "primary_isbn13": "9780399547966",
+            "publisher": "Putnam",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "WARCROSS",
+            "updated_date": "2017-11-08 22:00:04",
+            "weeks_on_list": 6,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Warcross-Marie-Lu/dp/0399547967?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780399547966?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780399547966"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 532,
+        "list_name": "Business Books",
+        "list_name_encoded": "business-books",
+        "display_name": "Business",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9780785216308.jpg",
+        "list_image_width": 330,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Capital-Gaines-Things-Learned-Stupid/dp/0785216308?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Chip Gaines",
+            "book_image": "https://s1.nyt.com/du/books/images/9780785216308.jpg",
+            "book_image_width": 330,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Chip Gaines",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0785216308",
+            "primary_isbn13": "9780785216308",
+            "publisher": "Thomas Nelson",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "CAPITAL GAINES",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Capital-Gaines-Things-Learned-Stupid/dp/0785216308?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780785216308?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780785216308"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jocko Willink",
+            "book_image": "https://s1.nyt.com/du/books/images/9781250156945.jpg",
+            "book_image_width": 330,
+            "book_image_height": 374,
+            "book_review_link": "",
+            "contributor": "by Jocko Willink",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1250156947",
+            "primary_isbn13": "9781250156945",
+            "publisher": "St. Martin's",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "DISCIPLINE EQUALS FREEDOM",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Discipline-Equals-Freedom-Field-Manual/dp/1250156947?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781250156945?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781250156945"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Ray Dalio",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501124020.jpg",
+            "book_image_width": 330,
+            "book_image_height": 494,
+            "book_review_link": "",
+            "contributor": "by Ray Dalio",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501124021",
+            "primary_isbn13": "9781501124020",
+            "publisher": "Simon & Schuster",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "PRINCIPLES",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Principles-Life-Work-Ray-Dalio/dp/1501124021?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501124020?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501124020"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "W Chan Kim and Renée Mauborgne",
+            "book_image": "https://s1.nyt.com/du/books/images/9780316314046.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by W. Chan Kim and Renée Mauborgne",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0316314048",
+            "primary_isbn13": "9780316314046",
+            "publisher": "Hachette",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BLUE OCEAN SHIFT",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Blue-Ocean-Shift-Competing-Confidence/dp/0316314048?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780316314046?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780316314046"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0735213658?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Scott Galloway",
+            "book_image": "https://s1.nyt.com/du/books/images/9780735213654.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Scott Galloway",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735213658",
+            "primary_isbn13": "9780735213654",
+            "publisher": "Portfolio/Penguin",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE FOUR",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Four-Hidden-Amazon-Facebook-Google/dp/0735213658?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735213654?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735213654"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 531,
+        "list_name": "Science",
+        "list_name_encoded": "science",
+        "display_name": "Science",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+        "list_image_width": 329,
+        "list_image_height": 495,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Walter Isaacson",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501139154.jpg",
+            "book_image_width": 329,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Walter Isaacson",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501139150",
+            "primary_isbn13": "9781501139154",
+            "publisher": "Simon & Schuster",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "LEONARDO DA VINCI",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Leonardo-Vinci-Walter-Isaacson/dp/1501139150?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501139154?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501139154"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Neil deGrasse Tyson",
+            "book_image": "https://s1.nyt.com/du/books/images/9780393609394.jpg",
+            "book_image_width": 305,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Neil deGrasse Tyson",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0393609391",
+            "primary_isbn13": "9780393609394",
+            "publisher": "Norton",
+            "rank": 2,
+            "rank_last_week": 1,
+            "sunday_review_link": "",
+            "title": "ASTROPHYSICS FOR PEOPLE IN A HURRY",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Astrophysics-People-Hurry-deGrasse-Tyson/dp/0393609391?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780393609394?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780393609394"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/End-Alzheimers-Program-Prevent-Cognitive/dp/0735216207?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Dale Bredesen",
+            "book_image": "https://s1.nyt.com/du/books/images/9780735216204.jpg",
+            "book_image_width": 328,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Dale Bredesen",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0735216207",
+            "primary_isbn13": "9780735216204",
+            "publisher": "Avery",
+            "rank": 3,
+            "rank_last_week": 2,
+            "sunday_review_link": "",
+            "title": "END OF ALZHEIMER'S",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/End-Alzheimers-Program-Prevent-Cognitive/dp/0735216207?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780735216204?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780735216204"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Endurance-Year-Space-Lifetime-Discovery/dp/1524731595?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Scott Kelly",
+            "book_image": "https://s1.nyt.com/du/books/images/9781524731595.jpg",
+            "book_image_width": 330,
+            "book_image_height": 482,
+            "book_review_link": "",
+            "contributor": "by Scott Kelly",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1524731595",
+            "primary_isbn13": "9781524731595",
+            "publisher": "Knopf",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ENDURANCE",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Endurance-Year-Space-Lifetime-Discovery/dp/1524731595?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781524731595?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781524731595"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Yuval Noah Harari",
+            "book_image": "https://s1.nyt.com/du/books/images/9780062316097.jpg",
+            "book_image_width": 128,
+            "book_image_height": 192,
+            "book_review_link": "",
+            "contributor": "by Yuval Noah Harari",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:02",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0062316095",
+            "primary_isbn13": "9780062316097",
+            "publisher": "Harper",
+            "rank": 5,
+            "rank_last_week": 4,
+            "sunday_review_link": "",
+            "title": "SAPIENS",
+            "updated_date": "2017-11-03 15:00:02",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/Sapiens-A-Brief-History-Humankind-ebook/dp/B00ICN066A?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780062316097?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780062316097"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "list_id": 538,
+        "list_name": "Sports",
+        "list_name_encoded": "sports",
+        "display_name": "Sports and Fitness",
+        "updated": "MONTHLY",
+        "list_image": "https://s1.nyt.com/du/books/images/9781419726477.jpg",
+        "list_image_width": 330,
+        "list_image_height": 396,
+        "books": [
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Basketball-Other-Things-Collection-Illustrated/dp/1419726471?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Shea Serrano",
+            "book_image": "https://s1.nyt.com/du/books/images/9781419726477.jpg",
+            "book_image_width": 330,
+            "book_image_height": 396,
+            "book_review_link": "",
+            "contributor": "by Shea Serrano. Illustrated by Arturo Torres",
+            "contributor_note": "Illustrated by Arturo Torres ",
+            "created_date": "2017-11-03 15:00:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1419726471",
+            "primary_isbn13": "9781419726477",
+            "publisher": "Abrams",
+            "rank": 1,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "BASKETBALL (AND OTHER THINGS)",
+            "updated_date": "2017-11-03 15:00:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Basketball-Other-Things-Collection-Illustrated/dp/1419726471?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781419726477?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781419726477"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/TB12-Method-Lifetime-Sustained-Performance/dp/1501180738?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Tom Brady",
+            "book_image": "https://s1.nyt.com/du/books/images/9781501180736.jpg",
+            "book_image_width": 330,
+            "book_image_height": 429,
+            "book_review_link": "",
+            "contributor": "by Tom Brady",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "1501180738",
+            "primary_isbn13": "9781501180736",
+            "publisher": "Simon & Schuster",
+            "rank": 2,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "TB12 METHOD",
+            "updated_date": "2017-11-03 15:00:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/TB12-Method-Lifetime-Sustained-Performance/dp/1501180738?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9781501180736?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9781501180736"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/Ali-Life-Jonathan-Eig/dp/0544435249?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Jonathan Eig",
+            "book_image": "https://s1.nyt.com/du/books/images/9780544435247.jpg",
+            "book_image_width": 330,
+            "book_image_height": 407,
+            "book_review_link": "",
+            "contributor": "by Jonathan Eig",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0544435249",
+            "primary_isbn13": "9780544435247",
+            "publisher": "Houghton Mifflin Harcourt",
+            "rank": 3,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "ALI: A LIFE",
+            "updated_date": "2017-11-03 15:00:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/Ali-Life-Jonathan-Eig/dp/0544435249?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780544435247?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780544435247"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "Daniel James Brown",
+            "book_image": "https://s1.nyt.com/du/books/images/9781101622742.jpg",
+            "book_image_width": 323,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by Daniel James Brown",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0143125478",
+            "primary_isbn13": "9780143125471",
+            "publisher": "Penguin",
+            "rank": 4,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE BOYS IN THE BOAT",
+            "updated_date": "2017-11-03 15:00:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "http://www.amazon.com/The-Boys-Boat-Americans-Olympics-ebook/dp/B00AEBETU2?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780143125471?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780143125471"
+              }
+            ]
+          },
+          {
+            "age_group": "",
+            "amazon_product_url": "https://www.amazon.com/First-Major-Inside-Story-Ryder/dp/0385541090?tag=NYTBS-20",
+            "article_chapter_link": "",
+            "author": "John Feinstein",
+            "book_image": "https://s1.nyt.com/du/books/images/9780385541091.jpg",
+            "book_image_width": 326,
+            "book_image_height": 495,
+            "book_review_link": "",
+            "contributor": "by John Feinstein",
+            "contributor_note": "",
+            "created_date": "2017-11-03 15:00:03",
+            "description": "",
+            "first_chapter_link": "",
+            "price": 0,
+            "primary_isbn10": "0385541090",
+            "primary_isbn13": "9780385541091",
+            "publisher": "Doubleday",
+            "rank": 5,
+            "rank_last_week": 0,
+            "sunday_review_link": "",
+            "title": "THE FIRST MAJOR",
+            "updated_date": "2017-11-03 15:00:03",
+            "weeks_on_list": 0,
+            "buy_links": [
+              {
+                "name": "Amazon",
+                "url": "https://www.amazon.com/First-Major-Inside-Story-Ryder/dp/0385541090?tag=NYTBS-20"
+              },
+              {
+                "name": "Local Booksellers",
+                "url": "http://www.indiebound.org/book/9780385541091?aff=NYT"
+              },
+              {
+                "name": "Barnes and Noble",
+                "url": "http://www.anrdoezrs.net/click-7990613-11819508?url=http%3A%2F%2Fwww.barnesandnoble.com%2Fw%2F%3Fean%3D9780385541091"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
